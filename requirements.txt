@@ -1,0 +1,6 @@
+streamlit
+moviepy
+Pillow
+trimesh
+svgwrite
+openai
