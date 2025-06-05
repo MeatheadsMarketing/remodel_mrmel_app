@@ -7,7 +7,6 @@ import os
 import json
 from PIL import Image
 
-st.set_page_config(page_title="📸 Snapshot Preview", layout="wide")
 
 st.title("📸 Step 3: Snapshot Preview")
 st.write("Browse the frames captured from your walkthrough video and check how they align with zones or rooms.")

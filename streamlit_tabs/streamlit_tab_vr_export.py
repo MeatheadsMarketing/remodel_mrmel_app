@@ -6,7 +6,6 @@ import streamlit as st
 import os
 import zipfile
 
-st.set_page_config(page_title="📦 Export VR Bundle", layout="centered")
 st.title("📦 Step 8: Export VR Bundle")
 
 vr_ready_path = "layout_test/feedback/vr_ready_flag.json"

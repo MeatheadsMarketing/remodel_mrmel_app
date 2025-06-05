@@ -6,7 +6,6 @@ import streamlit as st
 import json
 import os
 
-st.set_page_config(page_title="🧠 Transcript Inspector", layout="wide")
 
 st.title("📝 Step 2: Review Transcription + Zone Tags")
 st.markdown("Use this tab to view the raw transcription and inspect the GPT-detected layout zones.")
