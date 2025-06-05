@@ -7,7 +7,6 @@ import os
 import json
 from datetime import datetime
 
-st.set_page_config(page_title="✅ Confirm 2D Blueprint", layout="centered")
 st.title("✅ Step 5: Confirm Your Blueprint")
 st.write("Review the layout below and confirm if it matches what you described in your walkthrough.")
 

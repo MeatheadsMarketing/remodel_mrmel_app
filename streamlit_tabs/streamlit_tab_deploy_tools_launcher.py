@@ -5,7 +5,6 @@ import streamlit as st
 import os
 from streamlit_env_validator import validate_env
 
-st.set_page_config(page_title="🚀 Deploy Tools", layout="wide")
 st.title("🚀 Deploy Tools Launcher")
 
 st.markdown("This dashboard provides access to your Git push tools, Streamlit Cloud setup guide, and environment validator.")

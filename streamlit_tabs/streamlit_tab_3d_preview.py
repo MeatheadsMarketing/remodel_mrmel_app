@@ -5,7 +5,6 @@
 import streamlit as st
 import os
 
-st.set_page_config(page_title="🔲 3D Layout Preview", layout="wide")
 st.title("🔲 Step 6: Preview 3D Layout")
 st.write("Review the basic 3D layout generated from your 2D blueprint.")
 

@@ -2,7 +2,6 @@
 import streamlit as st
 import os
 
-st.set_page_config(page_title="🎥 Upload Video", layout="centered")
 
 st.title("🎥 Upload Walkthrough Video")
 

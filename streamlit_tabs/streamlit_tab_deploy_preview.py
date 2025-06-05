@@ -5,7 +5,6 @@
 import streamlit as st
 import os
 
-st.set_page_config(page_title="🧪 Deployment Preview", layout="wide")
 st.title("🧪 Final Deployment Preview — Remodel_MrMel")
 
 folders_to_check = [

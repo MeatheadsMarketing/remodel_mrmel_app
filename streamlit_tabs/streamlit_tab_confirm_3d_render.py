@@ -7,7 +7,6 @@ import os
 import json
 from datetime import datetime
 
-st.set_page_config(page_title="🎮 Confirm 3D Layout", layout="centered")
 st.title("🎮 Step 7: Confirm 3D Layout")
 st.write("This is your last step before generating your full VR export.")
 

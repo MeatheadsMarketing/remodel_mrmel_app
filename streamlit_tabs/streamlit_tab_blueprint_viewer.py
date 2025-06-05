@@ -6,7 +6,6 @@ import streamlit as st
 import os
 import json
 
-st.set_page_config(page_title="🗺️ Blueprint Viewer", layout="wide")
 
 st.title("🗺️ Step 4: Blueprint Viewer")
 st.write("Preview the generated 2D layout based on voice transcript and snapshot alignment.")
