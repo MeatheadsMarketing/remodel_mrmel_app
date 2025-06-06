@@ -32,7 +32,7 @@ tab_selection = st.sidebar.radio(
 )
 
 if tab_selection == "1. Upload Video":
-    streamlit_tab_video_upload.main()
+    streamlit_tab_video_upload.render_video_upload_tab()
 
 elif tab_selection == "2. Transcript Review":
     streamlit_tab_transcript_inspector.main()
